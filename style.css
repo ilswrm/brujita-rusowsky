@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+html{
+    font-size: 140%;
+}
 @font-face {
     font-family: "Compacta Black Poster W01";
     src: url("https://db.onlinewebfonts.com/t/814ce57257ef3da1f5d7f34f01bea356.eot");
