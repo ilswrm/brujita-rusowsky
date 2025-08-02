@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+background: #0804A3;
+font-family: "Compacta Black Poster W01";
+text-align: left;
+padding: 2rem;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+overflow: hidden;
+}
+.container{
+    max-width: 600px;
+    margin: auto;
+    
+}
+h1{
+    
+    color: #C2230B;
+    font-size: 5rem;
+    letter-spacing: 0.8px;
+    
+}
+
+audio{
+    display:none;
+    margin-top: 1rem;
+    width: 100%;
+    filter: grayscale(80%) brightness(0.9);
+}
+nav{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+#playBtn {
+    background: none;
+    border: 1px solid #C2230B; 
+    color: #C2230B;
+    font-size: 0.5rem;
+    padding: 0.2rem .7rem;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: all 0.6s ease;
+}
+
+#playBtn:hover {
+    border-color: #fff;
+    color: #fff;
+    background: rgba(255, 32, 32, 0.733);
+}
+p{
+    font-size: 0.6rem;
+    color: white;
+    
+    
+}
+
+
