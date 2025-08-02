@@ -5,15 +5,6 @@
 html{
     font-size: 140%;
 }
-@font-face {
-    font-family: "Compacta Black Poster W01";
-    src: url("https://db.onlinewebfonts.com/t/814ce57257ef3da1f5d7f34f01bea356.eot");
-    src: url("https://db.onlinewebfonts.com/t/814ce57257ef3da1f5d7f34f01bea356.eot?#iefix")format("embedded-opentype"),
-    url("https://db.onlinewebfonts.com/t/814ce57257ef3da1f5d7f34f01bea356.woff2")format("woff2"),
-    url("https://db.onlinewebfonts.com/t/814ce57257ef3da1f5d7f34f01bea356.woff")format("woff"),
-    url("https://db.onlinewebfonts.com/t/814ce57257ef3da1f5d7f34f01bea356.ttf")format("truetype"),
-    url("https://db.onlinewebfonts.com/t/814ce57257ef3da1f5d7f34f01bea356.svg#Compacta Black Poster W01")format("svg");
-}
 body{
 background: #0804A3;
 font-family: "Compacta Black Poster W01";
