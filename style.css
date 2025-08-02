@@ -70,6 +70,9 @@ p{
 a{
     color: #0804A3;
 }
+.lyrics {
+    font-family: "Compacta";
+}
 @media (max-width: 600px) {
     h1 {
     font-size: 5rem;
