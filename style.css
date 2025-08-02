@@ -5,6 +5,12 @@
 html{
     font-size: 140%;
 }
+@font-face {
+    font-family: "Compacta Black Poster W01";
+    src: url("./Compacta Black Poster W01.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
 body{
 background: #0804A3;
 font-family: "Compacta Black Poster W01";
@@ -60,8 +66,9 @@ nav{
 p{
     font-size: 0.6rem;
     color: white;
-    
-    
+}
+a{
+    color: #0804A3;
 }
 
 
